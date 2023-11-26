@@ -1,0 +1,5 @@
+S10000,asodinsaoidns,0123456789,aosidans@gmail.com,asodinsaoindaoisndison
+S10002,jdl,1234567890,kjdkfdas,123,jln,bukit jalil,KL
+S10001,aidan,0123456789,aidan@gmail.com,monkeymountain
+S90000,newname,0123456789,asodinasoidn@gmail.com,asodinasoipdnsa
+S10003,supplier,0123456999,supplier@gmail.com,oadisnioasn

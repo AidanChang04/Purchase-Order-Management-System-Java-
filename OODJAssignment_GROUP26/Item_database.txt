@@ -1,0 +1,5 @@
+I10001,Chicken Thigh (1kg),10.30,4,S10002,Fresh chicken thigh
+I12345,Milo (1kg),12.30,10,S10001,Authentic Milo powder
+I10002,cheese,5.60,50,S10000,aosidnasoidnasiodna
+I10008,cheese cream,23.12,13,S10001,too good ler
+I10101,item,10.00,50,S90000,test item
